@@ -6,7 +6,7 @@ I am a philomath, which means a lover of learning and studying. I love learning 
 
 I am a very disciplined and hard worker and always lead by example. I also consider myself a very organized and experimental person. I hate being in a comfortable position, and I am always trying to push myself to unknown places. Hard things take time, but you will get there with good planning and persistence.
 
-At this stage of my life, I focus on creating innovative and delightful products, surrounding myself with good people, and leaving a better world with more opportunities for future generations. I am involved in management, engineering development, product design, and recruiting in the company I am currently leading with my twin @rosasalberto. As a leader, I am:
+At this stage of my life, I focus on creating innovative and delightful products, surrounding myself with good people, and leaving a better world with more opportunities for future generations. I am involved in management, engineering development, product design, and recruiting in the company I am currently leading with my twin [@rosasalberto](https://github.com/rosasalberto). As a leader, I am:
 - Efficiency and results-driven
 - Close with the people in the organization
 - Holding myself and everyone accountable
