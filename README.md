@@ -18,6 +18,11 @@ At this stage of my life, I focus on creating innovative and delightful products
 
 - [**Didit**](https://github.com/didit-protocol)
 - [**Genesis**](https://github.com/genesis-world-metaverse)
+## Certificates 
+
+[![Credly Badge](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/bc20acc0-b1ef-4aec-947a-6cd51510138e)
+
+
 ## As seen in 📰
 
 - [**Xataka** - Identidad digital única para todo: así es Didit, el proyecto español que anticipa lo que pretende implementar Europa](https://www.xataka.com/aplicaciones/identidad-digital-unica-para-todo-asi-didit-proyecto-espanol-que-anticipa-que-pretende-implementar-europa)
